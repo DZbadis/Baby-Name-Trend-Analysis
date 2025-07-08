@@ -31,11 +31,7 @@ This project explores baby name trends across the United States using SQL. The d
 - SQL (MySQL)
 - Beekeeper Studio
 - GitHub
-
-## 📊 Sample Analyses
-- `"Emma"` and `"Liam"` were among the most popular names in recent years.
-- Certain names surged in popularity (e.g., `"Aiden"`), while others faded.
-- Regional trends showed distinct name preferences, like `"Jose"` in the Southwest.
+.
 
 ## 📁 Files
 - `baby_name_analysis.sql` – Main SQL file containing all queries grouped by objective.
